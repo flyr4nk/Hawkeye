@@ -16,7 +16,7 @@
     "highlight.js": "^9.12.0",
     "js-base64": "^2.1.9",
     "timeago.js": "^3.0.1",
-    "vue": "^2.3.4",
+    "vue": "^2.6.12",
     "vue-highlight.js": "^2.0.0",
     "vue-router": "^2.5.3"
   },
