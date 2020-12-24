@@ -10,7 +10,7 @@
     "build": "node build/build.js&&find dist -name '*.map'|xargs rm -rf&&rm -rf ../static&&cp -R dist/static ../static&&cp dist/index.html ../templates/index.html"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "babel-preset-vue-app": "^1.2.0",
     "element-ui": "^1.3.6",
     "highlight.js": "^9.12.0",
